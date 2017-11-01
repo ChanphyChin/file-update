@@ -1,5 +1,5 @@
 ### 烂笔头
-```
+```javascript
 单个文件上传文件处理
 注：key为键，value为值，url为接口地址，file为文件
 
